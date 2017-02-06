@@ -11,6 +11,8 @@ multi-modal similarity metric learning for answer selection
     
 3. run
 
-    python examples/trec_qa_w2v_mms/do_trec_qa_clean.py --main_dir examples/trec_qa_w2v_mms --exp_name exp --trainmode train-all --make_data
+    ```python
+    python examples/trec_qa_w2v_mms/do_trec_qa_clean.py --main_dir examples/trec_qa_w2v_mms --exp_name exp --trainmode train-all --make_data
+    ```
     
 4. result
